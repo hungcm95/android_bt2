@@ -1,0 +1,123 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\Android_studio\Learn_android_BT2\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from G:\Android_studio\Learn_android_BT2\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from G:\Android_studio\Learn_android_BT2\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from G:\Android_studio\Learn_android_BT2\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\hung_\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\4c8bdde3691a29677b7752a99a93edc6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\hung_\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\4b1f54c465434232a20dd1018f1a5b58\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\hung_\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\66a6e132b0192000d69e54cdb8f955b2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\hung_\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\ad837bc0620871bede668b07721f0a4d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\hung_\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8edfacce6be10ae31e2848987e41d6f2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\hung_\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b308caf3cf6f806a5079f7d0460deb92\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\hung_\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\6878e280b962bbb992b64c3692578d4e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\hung_\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\dbb5e1db0bab34a92c34e177c9439c3b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\hung_\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e39ef42c66b6b9d510d5574c21d589b4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\hung_\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\a16681204add02adba79e1780ddbc1d2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\hung_\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\fe89cf9053c3cb0a90299bd5653f4bd7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\hung_\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\bb78b212678dab739b33439cbfbb2e94\AndroidManifest.xml:17:1-22:12
+INJECTED from G:\Android_studio\Learn_android_BT2\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from G:\Android_studio\Learn_android_BT2\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from G:\Android_studio\Learn_android_BT2\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from G:\Android_studio\Learn_android_BT2\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from G:\Android_studio\Learn_android_BT2\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Android_studio\Learn_android_BT2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from G:\Android_studio\Learn_android_BT2\app\src\main\AndroidManifest.xml
+		ADDED from G:\Android_studio\Learn_android_BT2\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from G:\Android_studio\Learn_android_BT2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from G:\Android_studio\Learn_android_BT2\app\src\main\AndroidManifest.xml
+		ADDED from G:\Android_studio\Learn_android_BT2\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from G:\Android_studio\Learn_android_BT2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\Android_studio\Learn_android_BT2\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from G:\Android_studio\Learn_android_BT2\app\src\main\AndroidManifest.xml:5:5-24:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\hung_\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\4b1f54c465434232a20dd1018f1a5b58\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\hung_\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\4b1f54c465434232a20dd1018f1a5b58\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from G:\Android_studio\Learn_android_BT2\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from G:\Android_studio\Learn_android_BT2\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from G:\Android_studio\Learn_android_BT2\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from G:\Android_studio\Learn_android_BT2\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from G:\Android_studio\Learn_android_BT2\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from G:\Android_studio\Learn_android_BT2\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.nl.learn_android_bt1.MainActivity
+ADDED from G:\Android_studio\Learn_android_BT2\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from G:\Android_studio\Learn_android_BT2\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from G:\Android_studio\Learn_android_BT2\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from G:\Android_studio\Learn_android_BT2\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from G:\Android_studio\Learn_android_BT2\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\Android_studio\Learn_android_BT2\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from G:\Android_studio\Learn_android_BT2\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.nl.learn_android_bt1.NewUser
+ADDED from G:\Android_studio\Learn_android_BT2\app\src\main\AndroidManifest.xml:19:9-45
+	android:name
+		ADDED from G:\Android_studio\Learn_android_BT2\app\src\main\AndroidManifest.xml:19:19-42
+activity#com.nl.learn_android_bt1.EditUser
+ADDED from G:\Android_studio\Learn_android_BT2\app\src\main\AndroidManifest.xml:20:9-46
+	android:name
+		ADDED from G:\Android_studio\Learn_android_BT2\app\src\main\AndroidManifest.xml:20:19-43
+activity#com.nl.learn_android_bt1.EditNote
+ADDED from G:\Android_studio\Learn_android_BT2\app\src\main\AndroidManifest.xml:21:9-46
+	android:name
+		ADDED from G:\Android_studio\Learn_android_BT2\app\src\main\AndroidManifest.xml:21:19-43
+activity#com.nl.learn_android_bt1.AddNote
+ADDED from G:\Android_studio\Learn_android_BT2\app\src\main\AndroidManifest.xml:22:9-45
+	android:name
+		ADDED from G:\Android_studio\Learn_android_BT2\app\src\main\AndroidManifest.xml:22:19-42
+activity#com.nl.learn_android_bt1.ViewNote
+ADDED from G:\Android_studio\Learn_android_BT2\app\src\main\AndroidManifest.xml:23:9-55
+	android:name
+		ADDED from G:\Android_studio\Learn_android_BT2\app\src\main\AndroidManifest.xml:23:19-43
+uses-sdk
+INJECTED from G:\Android_studio\Learn_android_BT2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from G:\Android_studio\Learn_android_BT2\app\src\main\AndroidManifest.xml
+INJECTED from G:\Android_studio\Learn_android_BT2\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\hung_\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\4c8bdde3691a29677b7752a99a93edc6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\hung_\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\4c8bdde3691a29677b7752a99a93edc6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\hung_\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\4b1f54c465434232a20dd1018f1a5b58\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\hung_\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\4b1f54c465434232a20dd1018f1a5b58\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\hung_\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\66a6e132b0192000d69e54cdb8f955b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\hung_\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\66a6e132b0192000d69e54cdb8f955b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\hung_\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\ad837bc0620871bede668b07721f0a4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\hung_\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\ad837bc0620871bede668b07721f0a4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\hung_\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8edfacce6be10ae31e2848987e41d6f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\hung_\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8edfacce6be10ae31e2848987e41d6f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\hung_\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b308caf3cf6f806a5079f7d0460deb92\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\hung_\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b308caf3cf6f806a5079f7d0460deb92\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\hung_\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\6878e280b962bbb992b64c3692578d4e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\hung_\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\6878e280b962bbb992b64c3692578d4e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\hung_\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\dbb5e1db0bab34a92c34e177c9439c3b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\hung_\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\dbb5e1db0bab34a92c34e177c9439c3b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\hung_\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e39ef42c66b6b9d510d5574c21d589b4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\hung_\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e39ef42c66b6b9d510d5574c21d589b4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\hung_\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\a16681204add02adba79e1780ddbc1d2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\hung_\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\a16681204add02adba79e1780ddbc1d2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\hung_\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\fe89cf9053c3cb0a90299bd5653f4bd7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\hung_\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\fe89cf9053c3cb0a90299bd5653f4bd7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\hung_\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\bb78b212678dab739b33439cbfbb2e94\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\hung_\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\bb78b212678dab739b33439cbfbb2e94\AndroidManifest.xml:20:5-44
+INJECTED from G:\Android_studio\Learn_android_BT2\app\src\main\AndroidManifest.xml
+INJECTED from G:\Android_studio\Learn_android_BT2\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from G:\Android_studio\Learn_android_BT2\app\src\main\AndroidManifest.xml
+		ADDED from G:\Android_studio\Learn_android_BT2\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Android_studio\Learn_android_BT2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\Android_studio\Learn_android_BT2\app\src\main\AndroidManifest.xml
+		ADDED from G:\Android_studio\Learn_android_BT2\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Android_studio\Learn_android_BT2\app\src\main\AndroidManifest.xml
